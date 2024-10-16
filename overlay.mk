@@ -78,6 +78,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-lenovo-p11_pro_plus \
 	treble-overlay-lenovo-s5 \
 	treble-overlay-lenovo-s5pro \
+	treble-overlay-lenovo-tabk10 \
 	treble-overlay-lenovo-tabv7 \
 	treble-overlay-lenovo-tabv7-systemui \
 	treble-overlay-lenovo-y700_2023 \
